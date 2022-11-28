@@ -1,0 +1,60 @@
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+}
+.userName{
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: bold;
+}
+.container{
+  background-color: #ECEAEA;
+}
+.text{
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+th{
+  font-size: 20px;
+  font-family: Roboto;
+ }
+ thead{
+  background-color: #D9D9D9;
+ }
+
+    .buttonManual {
+      color: #ffffff;
+      background: #38970B;
+      max-width: 280px;
+      height: 39px;
+      border-radius: 8px;
+      border: none;
+      font-family: Roboto;
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+    }
+    .buttonManual:hover, .buttonSaida:hover{
+      color:#000000;
+      box-shadow: 0 0 5px #464646;
+           }
+        .buttonSaida {
+          color: #ffffff;
+          background: #F21B1B;
+          max-width: 280px;
+          height: 39px;
+          border-radius: 8px;
+          border: none;
+          font-family: Roboto;
+          font-size: 20px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          text-decoration: none;
+          margin-top: 20px;
+        }

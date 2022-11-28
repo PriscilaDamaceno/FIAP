@@ -1,0 +1,24 @@
+h1{
+font-size: 45px;
+font-family: Roboto;
+font-weight: bold;
+color: #ff2cf8;
+}
+            .buttonSaida {
+              color: #ff2cf8;
+              background: #000000;
+              width: 280px;
+              height: 39px;
+              border-radius: 8px;
+              border: none;
+              font-family: Roboto;
+              font-size: 20px;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              text-decoration: none;
+           }
+.buttonSaida:hover{
+  color:rgb(255, 255, 255);
+  box-shadow: 0 0 5px #464646;
+      }

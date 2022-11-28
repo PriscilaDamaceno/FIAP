@@ -1,0 +1,38 @@
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
+}
+
+p{
+  font-size: 12px;
+ }
+
+ .buttonLogin {
+  color: #ffffff;
+  background: #090697;
+  max-width: 280px;
+  height: 39px;
+  border-radius: 8px;
+  border: none;
+  font-family: Roboto;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+    .buttonLogin:hover {
+       color: #000000;
+       box-shadow: 0 0 5px #464646;
+     }
+
+ .blackLink{
+  color: #000000;
+  font-weight: bold;
+ }
+ 
+ label{
+  font-family: Roboto;
+  font-size: 15px;
+  margin-top: 5%;
+ }
